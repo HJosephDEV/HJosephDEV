@@ -7,8 +7,8 @@ Welcome! 😄
 
 <br>
 
-find me here 🧐<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    👇
+&nbsp; 🧐 find me here <br>
+👇
             
 [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/HJosephDEV) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-haase-lima-45a15b1b9/) [![Gmail](https://img.shields.io/badge/-joseph.haasex@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:joseph.haasex@gmail.com?Body=Come%20on,%20send%20me%20a%20message!!%20%20%0D%0D%0D) [![CodePen](https://img.shields.io/badge/-CodePen-000?style=flat-square&logo=CodePen&logoColor=white)](https://codepen.io/hjosephdev/)
 
